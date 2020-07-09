@@ -11,7 +11,7 @@ _No dejo de ser lo que soy, sólo me reinventé y adapté al mundo digital en el
 
 - Una API RESTful que gestiona el sistema de pedidos online de un restaurante usando Node JS, Express y otras dependencias. Con Postman probaba el funcionamiento de la API y fue documentada con Swagger. Para verla haz clic [AQUI](https://github.com/martinezga/my-First-API)
 
-De manera autodidacta comencé a aprender Python y Django. Me encantó! Pronto lo declararé como mi lenguaje de uso principal 😄.
+De manera autodidacta comencé a aprender Python y Django. Me encantó! Pronto lo declararé a Python como mi lenguaje de uso principal 😄.
 
 **Actualmente estoy enfocada en el curso de la Universidad de Harvard "CS50's Introduction to Computer Science"**, allí estoy aprendiendo a programar en C y adquiriendo los conceptos fundamentales de la programación como algoritmos y estructura de datos, para cuando lo culmine pienso avanzar con "CS50's Web Programming with Python and JavaScript". Pronto subiré un repositorio con las asignaciones aprobadas.
 
