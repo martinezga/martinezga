@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Mi nombre es Gabriella, decidí transformar mi carrera profesional. Reorientarla hacia la tecnología, hacia la Ingeniería de Software. Durante 5 años me desenvolví como Ingeniera de Reservorios en Venezuela, hoy vivo en Argentina y estoy labrando mi futuro para desempeñarme como Desarrolladora. Decidí abandonar el rol de usuario de aplicaciones y **asumir el rol de Programadora**.
+Mi nombre es Gabriella, decidí transformar mi carrera profesional. Reorientarla hacia la tecnología, hacia la Ciencia de la Computación. Durante 5 años me desenvolví como Ingeniera de Reservorios en Venezuela, hoy vivo en Argentina y estoy labrando mi futuro para desempeñarme como Desarrolladora. Decidí abandonar el rol de usuario de aplicaciones y **asumir el rol de Programadora**.
 
 _No dejo de ser lo que soy, sólo me reinventé y adapté al mundo digital en el que estamos viviendo._ 
 
