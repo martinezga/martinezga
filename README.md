@@ -1,24 +1,18 @@
 ### Hola! 👋
 
-Mi nombre es Gabriella, decidí transformar mi carrera profesional y reorientarla hacia la tecnología. Decidí abandonar el rol de usuario de aplicaciones y **asumir el rol de Programadora**. Soy Ingeniera de Petróleo desde el año 2012, migré a Argentina en el 2018 y actualmente soy Desarrolladora.
+Mi nombre es Gabriella, decidí transformar mi carrera profesional como Ingeniera de Petróleo y reorientarla hacia la tecnología. Decidí abandonar el rol de usuario de aplicaciones y **asumir el rol de Programadora**. Actualmente soy Ingeniera de Software.
 
 _No dejo de ser lo que soy, sólo me reinventé y adapté al mundo digital en el que estamos viviendo._ 
 
-En el año 2020, luego de 8 meses de aprendizaje, **culminé la carrera de Desarrollo Web Full Stack** en Acámica, aprendí HTML5, CSS3, JavaScript, SQL, Node JS, Express, XAMPP y Postman. Los tres proyectos presentados y aprobados consistieron en:
+En el año 2020, luego de 8 meses de aprendizaje, **culminé la carrera de Desarrollo Web Full Stack** en Acámica, aprendí HTML5, CSS3, JavaScript, SQL, Node JS, Express, XAMPP y Postman.
 
-- Una web responsiva construida sin el uso de frameworks, usando HTML5 y CSS3 exclusivamente. Para verla haz clic [AQUI](https://martinezga.github.io/podcast/)
+De manera autodidacta aprendí Python. Me encantó! **Oficialmente soy Pythonista!!!** 🐍😄. 
 
-- Una web dinámica que consume la API de Giphy. Capaz de mostrar los gifs de las palabras claves que insertes en la barra de búsqueda así como también sube tu propio gif. Para verla haz clic [AQUI](https://martinezga.github.io/gifos-web/)
-
-- Una API RESTful que gestiona el sistema de pedidos online de un restaurante usando Node JS, Express y otras dependencias. Con Postman probaba el funcionamiento de la API y fue documentada con Swagger. Para verla haz clic [AQUI](https://github.com/martinezga/my-First-API)
-
-De manera autodidacta comencé a aprender Python y Django. Me encantó! Pronto declararé a Python como mi lenguaje de uso principal 😄.
-
-**Actualmente estoy enfocada en el curso de la Universidad de Harvard ["CS50's Introduction to Computer Science"](https://cs50.harvard.edu)**, allí estoy aprendiendo a programar en C y adquiriendo más conceptos fundamentales de la programación, para cuando lo culmine avanzar con "CS50's Web Programming with Python and JavaScript". Pronto subiré un repositorio con las asignaciones aprobadas.
+Estoy enfocada en el curso de la Universidad de Harvard ["CS50's Introduction to Computer Science"](https://cs50.harvard.edu) y en el ["Scientific Computing with Python Projects"](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/) de freeCodeCamp, para cuando los culmine avanzar con "CS50’s Introduction to Artificial Intelligence with Python".
 
 _Espero inspirar a otras personas a que transformen su vida._ No es un camino inmediato pero con constancia y dedicación se logra. 
 
-📫 Si quieres contactarme y charlar no dudes en hacerlo, también estoy activa en [Linkedin](https://www.linkedin.com/in/gabriella-martinez-viloria), [Twitter](https://twitter.com/GAMaVi) e [Instagram](https://www.instagram.com/martinezga.ig) crear comunidad es fundamental y sentir que perteneces aún más!
+📫 Si quieres contactarme y charlar no dudes en hacerlo, me puedes encontrar en [Linkedin](https://www.linkedin.com/in/gabriella-martinez-viloria), [Twitter](https://twitter.com/martinezgaTW) e [Instagram](https://www.instagram.com/martinezga.ig) crear comunidad es fundamental y sentir que perteneces aún más!
 
 ---
 
