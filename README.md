@@ -4,7 +4,7 @@ Mi nombre es Gabriella, decidí transformar mi carrera profesional como Ingenier
 
 _No dejo de ser lo que soy, sólo me reinventé y adapté al mundo digital en el que estamos viviendo._ 
 
-En el año 2020, luego de 8 meses de aprendizaje, **culminé la carrera de Desarrollo Web Full Stack** en Acámica a través del sistema de becas "Code your Future", allí aprendí HTML5, CSS3, JavaScript, SQL, Node JS, Express, XAMPP y Postman.
+En el año 2020, luego de 8 meses de aprendizaje, **culminé la carrera de Desarrollo Web Full Stack** en [Acámica](https://www.acamica.com/desarrollo-web-full-stack) a través del programa de becas de Globant ["Code your Future"](https://stayrelevant.globant.com/en/code-future-scholarship-program/), allí aprendí HTML5, CSS3, JavaScript, SQL, Node JS, Express, XAMPP y Postman.
 
 De manera autodidacta aprendí Python. Me encantó! **Oficialmente soy Pythonista!!!** 🐍😄. 
 
