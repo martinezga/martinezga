@@ -12,7 +12,7 @@ Estoy enfocada en el curso de la Universidad de Harvard ["CS50's Introduction to
 
 _Espero inspirar a otras personas a que transformen su vida._ No es un camino inmediato pero con constancia y dedicación se logra. 
 
-📫 Si quieres contactarme y charlar no dudes en hacerlo, me puedes encontrar en [Linkedin](https://www.linkedin.com/in/gabriella-martinez-viloria), [Twitter](https://twitter.com/martinezgaTW) e [Instagram](https://www.instagram.com/martinezga.ig) crear comunidad es fundamental y sentir que perteneces aún más!
+📫 Si quieres contactarme y charlar no dudes en hacerlo, me puedes encontrar en [Linkedin](https://www.linkedin.com/in/gabriella-martinez-viloria), [Twitter](https://twitter.com/martinezgapro) e [Instagram](https://www.instagram.com/martinezgapro) crear comunidad es fundamental y sentir que perteneces aún más!
 
 ---
 
