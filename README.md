@@ -1,18 +1,49 @@
-### Hola! 👋
+<h1 align="center"> ¡Hola! 👋 Mi nombre es Gabriella </h1>
 
-Mi nombre es Gabriella, decidí transformar mi carrera profesional como Ingeniera de Petróleo y reorientarla hacia la tecnología. Decidí abandonar el rol de usuario de aplicaciones y **asumir el rol de Programadora**. Actualmente soy Ingeniera de Software.
+<h3 align="center"> 🎓 Ingeniera de Petróleo | 🦄 Full Stack Web Developer | 🐍 Python Developer | 👾 RPG Developer </h3>
 
-_No dejo de ser lo que soy, sólo me reinventé y adapté al mundo digital en el que estamos viviendo._ 
+Decidí transformar mi carrera profesional como Ingeniera de Petróleo y reorientarla hacia la tecnología. 
 
-En el año 2020, luego de 8 meses de aprendizaje, **culminé la carrera de Desarrollo Web Full Stack** en [Acámica](https://www.acamica.com/desarrollo-web-full-stack) a través del programa de becas de Globant ["Code your Future"](https://stayrelevant.globant.com/en/code-future-scholarship-program/), allí aprendí HTML5, CSS3, JavaScript, SQL, Node JS, Express, XAMPP y Postman.
+- 💘 Me encanta la Inteligencia Artificial y mi meta es convertirme en Ingeniera de Inteligencia Artificial.
 
-De manera autodidacta aprendí Python. Me encantó! **Oficialmente soy Pythonista!!!** 🐍😄. 
+- 🌱 Actualmente estoy aprendiendo Flask y Django.
 
-Estoy enfocada en el curso de la Universidad de Harvard ["CS50's Introduction to Computer Science"](https://cs50.harvard.edu) y en el ["Scientific Computing with Python Projects"](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/) de freeCodeCamp, para cuando los culmine avanzar con "CS50’s Introduction to Artificial Intelligence with Python".
+- 🔭 También estoy haciendo el curso de la Universidad de Harvard ["CS50's Introduction to Computer Science"](https://cs50.harvard.edu) y ["Scientific Computing with Python Projects"](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/) de freeCodeCamp, para cuando los culmine avanzar con "CS50’s Introduction to Artificial Intelligence with Python".
 
-_Espero inspirar a otras personas a que transformen su vida._ No es un camino inmediato pero con constancia y dedicación se logra. 
+- 📖 Colaborando con las traducciones al Español del material de freeCodeCamp.
 
-📫 Si quieres contactarme y charlar no dudes en hacerlo, me puedes encontrar en [Linkedin](https://www.linkedin.com/in/gabriella-martinez-viloria), [Twitter](https://twitter.com/martinezgapro) e [Instagram](https://www.instagram.com/martinezgapro) crear comunidad es fundamental y sentir que perteneces aún más!
+- 📫 Si quieres contactarme y charlar no dudes en hacerlo, me puedes encontrar en [Linkedin](https://www.linkedin.com/in/gabriella-martinez-viloria), [Twitter](https://twitter.com/martinezgapro) e [Instagram](https://www.instagram.com/martinezgapro) crear comunidad es fundamental y sentir que perteneces aún más!
+
+#### ✨ Lo más relevante de mis repos
+
+- Challenge HackademyMX - [Basic Rest API](https://martinezga.github.io/challenge-basic-rest-api/) - Para ver el código haz click [AQUÍ](https://github.com/martinezga/challenge-basic-rest-api)
+
+- Algunos programas básicos en [RPG](https://github.com/martinezga/ibm-rpg-programs)
+
+- freeCodeCamp - ["Scientific Computing with Python Projects"](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/)
+
+  Tecnología: Python
+  - [Arithmetic Formatter](https://repl.it/@martinezga/freecodecamp-arithmetic-formatter) - Para ver el código haz click [AQUÍ](https://github.com/martinezga/freecodecamp-arithmetic-formatter)
+  - [Time Calculator](https://repl.it/@martinezga/freecodecamp-time-calculator) - Para ver el código haz click [AQUÍ](https://github.com/martinezga/freecodecamp-time-calculator)
+  - [Budget App](https://repl.it/@martinezga/freecodecamp-budget-app) - Para ver el código haz click [AQUÍ](https://github.com/martinezga/freecodecamp-budget-app)
+  - [Polygon Area Calculator](https://replit.com/@martinezga/freecodecamp-polygon-area-calculator) - Para ver el código haz click [AQUÍ](https://github.com/martinezga/freecodecamp-polygon-area-calculator)
+  - En progreso - [Probability Calculator](https://replit.com/@martinezga/freecodecamp-probability-calculator) - Para ver el código haz click [AQUÍ](https://github.com/martinezga/freecodecamp-probability-calculator)
+
+- Jetbrains Academy - Intermediate Python Track
+
+    Tecnologías: Python, Beautiful Soup, Sqlite3
+  - [Zookeeper](https://github.com/martinezga/jetbrains-academy-zookeeper)
+  - [Text Based Browser](https://github.com/martinezga/jetbrains-academy-Text-Based-Browser)
+  - [CRUD banking system](https://github.com/martinezga/jetbrains-academy-simple-banking-system)
+  - [Hangman](https://github.com/martinezga/jetbrains-academy-hangman)
+  - [Tic-Tac-Toe](https://github.com/martinezga/jetbrains-academy-tictactoe)
+
+- Acámica / Globant - Desarrollo Web Full Stack
+
+    Tecnologías: HTML5, CSS3, JavaScript, SQL, Node JS, Express, XAMPP y Postman
+  - [Página web de Podcasts](https://martinezga.github.io/podcast/) - Para ver el código haz click [AQUÍ](https://github.com/martinezga/podcast)
+  - [Página web de GIFs](https://martinezga.github.io/gifos-web/) - Para ver el código haz click [AQUÍ](https://github.com/martinezga/gifos-web)
+  - [Restful API Delilah Restó](https://github.com/martinezga/my-First-API)
 
 ---
 
