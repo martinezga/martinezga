@@ -1,6 +1,6 @@
 <h1 align="center"> ¡Hola! 👋 Mi nombre es Gabriella </h1>
 
-<h3 align="center"> 🎓 Ingeniera de Petróleo | 🦄 Full Stack Web Developer | 🐍 Python Developer | 👾 RPG Developer </h3>
+<h3 align="center"> 🎓 Ingeniera de Petróleo | 🐍 Python Developer | 🦄 Full Stack Web Developer | 👾 RPG Developer </h3>
 
 Decidí transformar mi carrera profesional como Ingeniera de Petróleo y reorientarla hacia la tecnología. 
 
