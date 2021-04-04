@@ -22,6 +22,8 @@ Decidí transformar mi carrera profesional como Ingeniera de Petróleo y reorien
 
 ### ✨ Lo más relevante de mis repositorios
 
+- Katas resueltos de Codewars. Participación en la iniciativa de FrontendCafé - Ver [repositorio](https://github.com/martinezga/py-study-group/tree/main/ejercicios/CodeWars/Gabriella-Martinez)
+
 - Challenge HackademyMX. Basic Rest API - Ver [web](https://martinezga.github.io/challenge-basic-rest-api/) / Ver [repositorio](https://github.com/martinezga/challenge-basic-rest-api)
 
 - Algunos programas básicos en RPG - Ver [repositorio](https://github.com/martinezga/ibm-rpg-programs)
