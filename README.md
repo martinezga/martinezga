@@ -1,3 +1,4 @@
+![martinezga banner](https://github.com/martinezga/martinezga/blob/master/fractal-github-banner.png)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -56,8 +57,6 @@ print("Trabajando duro para convertirme en", me.get_future_goal())
 
 <a href="https://github.com/martinezga/martinezga">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinezga&show_icons=true&line_height=27&count_private=true&title_color=FF66C4&text_color=8a919a&icon_color=FF66C4&bg_color=22272e" alt="Gabriella's GitHub Stats" style="padding:10px"/></a>
-
----
 
 ## ✨ Lo más relevante de mis repositorios ✨
 
