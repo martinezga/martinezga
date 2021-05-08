@@ -9,22 +9,20 @@ class Developer:
         self.name = "Gabriella Alexandra Martínez Viloria"
         self.role = "Python Developer"
         self.employer = "Globant"
-        self.job_role = "RPG IBM Developer"
         self.profession = "Petroleum Engineer"
         self.stack = {
             "🎨 Frontend": ["HTML", "CSS", "Javascript"],
-            "🔧 Backend": ["Python", "NodeJS", "Express", "RPG IBM (AS/400)"],
-            "💾 Databases": ["MySQL", "DB2"],
+            "🔧 Backend": ["Python", "NodeJS", "Express"],
+            "💾 Databases": ["MySQL"],
             "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
             "🧵 Miscellaneous": ["Postman", "Git"],
             "🔮 Agile tools": ["Scrum", "Jira", "Youtrack"],
-            "📌 Ongoing": ["Flask", "Django", "Docker", "PostgreSQL", "MongoDB", "Linux"]
+            "📌 Ongoing": ["Django", "Docker", "PostgreSQL", "Linux"]
         }
         self.tech_communities = ["FrontendCafé", "HackademyMX", "freeCodeCamp"]
         self.tech_contribution = ["Python mentor", "Traducciones al español en freeCodeCamp"]
 
     def spend_free_time(self):
-        self.tech_community_project = "Construcción de un Chatbot"
         self.courses_in_progress = ["CS50's Introduction to Computer Science", "Django for Everybody"]
         self.next_course = "CS50’s Introduction to Artificial Intelligence with Python"
         self.hobbies = ["Leer libros de ciencia ficción", "cocinar panes y dulces"]
@@ -34,13 +32,11 @@ class Developer:
         return "🤖 Artificial Intelligence Engineer"
 
     def __str__(self) -> str:
-        return f"Soy {self.role}, actualmente trabajo como {self.job_role} en {self.employer}" \
-            f"y busco vivir mi vida como Pythonista!"
+        return f"Construyendo mi futuro como {self.get_future_goal()}"
 
 
 me = Developer()
 print(me)
-print("Trabajando duro para convertirme en", me.get_future_goal())
 ```
 
 ## 🐱‍💻 Social Networks
@@ -67,10 +63,6 @@ print("Trabajando duro para convertirme en", me.get_future_goal())
 - ### Challenge HackademyMX.
   
   Basic Rest API - Ver [web](https://martinezga.github.io/challenge-basic-rest-api/) / Ver [repositorio](https://github.com/martinezga/challenge-basic-rest-api)
-
-- ### Algunos programas básicos en RPG.
-  
-  Ver [repositorio](https://github.com/martinezga/ibm-rpg-programs)
 
 - ### freeCodeCamp - Curso "Scientific Computing with Python Projects". Ver [certificado](https://freecodecamp.org/certification/martinezga/scientific-computing-with-python-v7)
 
@@ -100,9 +92,7 @@ print("Trabajando duro para convertirme en", me.get_future_goal())
 
 ---
 
-
-
-        
+       
 ⌨️ con ❤️ por [Gabriella Martínez](https://github.com/martinezga) 😊
 
 <!--
