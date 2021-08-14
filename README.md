@@ -8,16 +8,27 @@ class Developer:
     def __init__(self):
         self.name = "Gabriella Alexandra Martínez Viloria"
         self.role = "Python Developer"
-        self.employer = "Globant"
         self.profession = "Petroleum Engineer"
-        self.stack = {
-            "🎨 Frontend": ["HTML", "CSS", "Javascript"],
-            "🔧 Backend": ["Python", "NodeJS", "Express"],
-            "💾 Databases": ["MySQL"],
+        self.main_employer = "Globant"
+        self.client = "WellSky"
+        self.client_role = "Backend Developer"
+        self.client_language = "RPG (legacy programming language)"
+        self.client_stack = {
+            "🔧 Backend": "RPG (AS/400)",
+            "💾 Databases": "DB2",
+            "🔮 Other tools": ["Scrum", "Jira", "Confluence"]
+        }
+        self.python_stack = {
+            "🔧 Backend": ["Python", "Django"],
             "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
-            "🧵 Miscellaneous": ["Postman", "Git"],
-            "🔮 Agile tools": ["Scrum", "Jira", "Youtrack"],
-            "📌 Ongoing": ["Django", "Docker", "PostgreSQL", "Linux"]
+            "🧵 Miscellaneous": ["Linux", "Docker", "docker-compose"],
+            "📌 Ongoing": ["PostgreSQL", "AWS", "asyncIO"]
+        }
+        self.other_knowledge = {
+            "🎨 Frontend": ["HTML", "CSS", "Javascript"],
+            "🔧 Backend": ["NodeJS", "Express"],
+            "💾 Databases": ["MySQL"],
+            "🧵 Miscellaneous": ["Postman", "Git", "Dialogflow", "Heroku", "Youtrack"],
         }
         self.tech_communities = ["FrontendCafé", "HackademyMX", "freeCodeCamp"]
         self.tech_contribution = ["Python mentor", "Traducciones al español en freeCodeCamp"]
@@ -55,6 +66,8 @@ print(me)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinezga&show_icons=true&line_height=27&count_private=true&title_color=FF66C4&text_color=8a919a&icon_color=FF66C4&bg_color=22272e" alt="Gabriella's GitHub Stats" style="padding:10px"/></a>
 
 ## ✨ Lo más relevante de mis repositorios ✨
+
+- ### Material de estudio - Ver [repositorio](https://github.com/martinezga/material-de-estudio)
 
 - ### Katas resueltos de Codewars.
   
