@@ -7,17 +7,10 @@
 class Developer:
     def __init__(self):
         self.name = "Gabriella Alexandra Martínez Viloria"
-        self.role = "Python Developer"
-        self.profession = "Petroleum Engineer"
-        self.main_employer = "Globant"
-        self.client = "WellSky"
-        self.client_role = "Backend Developer"
-        self.client_language = "RPG (legacy programming language)"
-        self.client_stack = {
-            "🔧 Backend": "RPG (AS/400)",
-            "💾 Databases": "DB2",
-            "🔮 Other tools": ["Scrum", "Jira", "Confluence"]
-        }
+        self.main_profession = "Python Developer"
+        self.base_profession = "Petroleum Engineer"
+        self.main_employer = "Secretaría de Innovación y Transformación Digital"
+        self.employer_role = "Python Backend Developer"
         self.python_stack = {
             "🔧 Backend": ["Python", "Django"],
             "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
