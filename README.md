@@ -7,36 +7,36 @@
 class Developer:
     def __init__(self):
         self.name = "Gabriella Alexandra Martínez Viloria"
-        self.main_profession = "Python Developer"
+        self.main_profession = "Backend Developer"
         self.base_profession = "Petroleum Engineer"
         self.main_employer = "Secretaría de Innovación y Transformación Digital"
         self.employer_role = "Python Backend Developer"
         self.python_stack = {
             "🔧 Backend": ["Python", "Django"],
             "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
-            "🧵 Miscellaneous": ["Linux", "Docker", "docker-compose"],
-            "📌 Ongoing": ["PostgreSQL", "AWS", "asyncIO"]
+            "🧵 Miscellaneous": ["Linux", "PostgreSQL", "Docker", "docker-compose"],
+            "📌 Ongoing": ["Django Rest Framework"]
+        }
+        self.blockchain_stack = {
+            "📌 Ongoing": ["Solidity",]
         }
         self.other_knowledge = {
             "🎨 Frontend": ["HTML", "CSS", "Javascript"],
             "🔧 Backend": ["NodeJS", "Express"],
             "💾 Databases": ["MySQL"],
-            "🧵 Miscellaneous": ["Postman", "Git", "Dialogflow", "Heroku", "Youtrack"],
+            "🧵 Miscellaneous": ["SCRUM", "Postman", "GIT", "Dialogflow", "Heroku", "Youtrack", "Jira",],
         }
-        self.tech_communities = ["FrontendCafé", "HackademyMX", "freeCodeCamp"]
-        self.tech_contribution = ["Python mentor", "Traducciones al español en freeCodeCamp"]
+        self.tech_communities = ["FrontendCafé", "HackademyMX", "freeCodeCamp (FCC)"]
+        self.tech_contribution = ["Python mentor", "Docker mentor"]
 
     def spend_free_time(self):
-        self.courses_in_progress = ["CS50's Introduction to Computer Science", "Django for Everybody"]
-        self.next_course = "CS50’s Introduction to Artificial Intelligence with Python"
+        self.courses_in_progress = ["Solidity, Blockchain, and Smart Contract. FCC"]
+        self.next_course = "CS50's Introduction to Computer Science"
         self.hobbies = ["Leer libros de ciencia ficción", "cocinar panes y dulces"]
         self.lost_hobbies = ["🎮 Jugar videojuegos"]
 
-    def get_future_goal(self):
-        return "🤖 Artificial Intelligence Engineer"
-
     def __str__(self) -> str:
-        return f"Construyendo mi futuro como {self.get_future_goal()}"
+        return f"Actualmente aprendiendo {self.blockchain_stack.get("📌 Ongoing")[0]}"
 
 
 me = Developer()
@@ -44,7 +44,7 @@ print(me)
 ```
 
 ## 🐱‍💻 Social Networks
-[<img src="https://img.shields.io/badge/Linkedin-follow-ff69b4?style=social&logo=linkedin" height="25em" align="center" alt="Follow Gabriella on LinkedIn" title="Follow Gabriella on LinkedIn" style="padding:10px"/>](https://www.linkedin.com/in/gabriella-martinez-viloria)                     
+[<img src="https://img.shields.io/badge/Linkedin-follow-ff69b4?style=social&logo=linkedin" height="25em" align="center" alt="Follow Gabriella on LinkedIn" title="Follow Gabriella on LinkedIn" style="padding:10px"/>](https://www.linkedin.com/in/martinezga)                     
 
 [<img src="https://img.shields.io/badge/Instagram-follow-ff69b4?style=social&logo=instagram" height="25em" align="center" alt="Follow Gabriella on Instagram" title="Follow Gabriella on Instagram" style="padding:10px"/>](https://www.instagram.com/martinezgapro)                     
 
