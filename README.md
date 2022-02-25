@@ -50,6 +50,13 @@ print(me)
 
 [<img src="https://img.shields.io/twitter/follow/martinezgapro?style=social" height="25em" align="center" alt="Follow Gabriella on Twitter" title="Follow Gabriella on Twitter" style="padding:10px"/>](https://twitter.com/martinezgapro)
 
+## ☕️ Buy me a coffee
+[<img src="https://img.shields.io/badge/%20🌎️%20Stripe%20(USD)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on Stripe" title="Buy me a coffee on Stripe" style="padding:10px"/>](https://buy.stripe.com/eVa9Dq6Ry9Wr7zqdQQ)  
+
+[<img src="https://img.shields.io/badge/%20🇧🇷️%20PIX%20(BRL)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee with PIX" title="Buy me a coffee with PIX" style="padding:10px"/>](https://iti.itau/transacoes?t=link&h=f73e4e38-9341-41c1-818a-1fe834dc721f)  
+
+[<img src="https://img.shields.io/badge/%20🇦🇷️%20CafecitoApp%20(ARS)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on CafecitoApp" title="Buy me a coffee on CafecitoApp" style="padding:10px"/>](https://cafecito.app/martinezga)  
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/martinezga/martinezga">
