@@ -9,8 +9,6 @@ class Developer:
         self.name = "Gabriella Alexandra Martínez Viloria"
         self.main_profession = "Backend Developer"
         self.base_profession = "Petroleum Engineer"
-        self.main_employer = "Secretaría de Innovación y Transformación Digital"
-        self.employer_role = "Python Backend Developer"
         self.python_stack = {
             "🔧 Backend": ["Python", "Django"],
             "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
