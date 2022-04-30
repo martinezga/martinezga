@@ -48,6 +48,8 @@ print(me)
 
 [<img src="https://img.shields.io/twitter/follow/martinezgapro?style=social" height="25em" align="center" alt="Follow Gabriella on Twitter" title="Follow Gabriella on Twitter" style="padding:10px"/>](https://twitter.com/martinezgapro)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinezga&label=Profile%20views&color=0e75b6&style=flat" alt="martinezga" /> </p>
+
 ## ☕️ Buy me a coffee
 [<img src="https://img.shields.io/badge/%20🌎️%20Stripe%20(USD)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on Stripe" title="Buy me a coffee on Stripe" style="padding:10px"/>](https://buy.stripe.com/eVa9Dq6Ry9Wr7zqdQQ)  
 
