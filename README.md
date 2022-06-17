@@ -10,7 +10,7 @@ class Developer:
         self.main_profession = "Backend Developer"
         self.base_profession = "Petroleum Engineer"
         self.backend_stack = {
-            "🔧 Backend": ["Java", "Spring", "Python", "Django Rest Framework"],
+            "🔧 Backend": ["Java", "Spring Boot", "Python", "Django Rest Framework"],
             "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
             "🧵 Miscellaneous": ["Linux", "PostgreSQL", "Docker", "docker-compose"]
         }
