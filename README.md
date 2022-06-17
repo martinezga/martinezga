@@ -6,26 +6,22 @@
 
 class Developer:
     def __init__(self):
-        self.name = "Gabriella Alexandra Martínez Viloria"
+        self.name = "Gabriella Alexandra Martinez Viloria"
         self.main_profession = "Backend Developer"
         self.base_profession = "Petroleum Engineer"
-        self.python_stack = {
-            "🔧 Backend": ["Python", "Django"],
+        self.backend_stack = {
+            "🔧 Backend": ["Java", "Spring", "Python", "Django Rest Framework"],
             "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
-            "🧵 Miscellaneous": ["Linux", "PostgreSQL", "Docker", "docker-compose"],
-            "📌 Ongoing": ["Django Rest Framework"]
-        }
-        self.blockchain_stack = {
-            "📌 Ongoing": ["Solidity",]
+            "🧵 Miscellaneous": ["Linux", "PostgreSQL", "Docker", "docker-compose"]
         }
         self.other_knowledge = {
-            "🎨 Frontend": ["HTML", "CSS", "Javascript"],
+            "🎨 Frontend": ["ReactJS", "HTML", "CSS", "Javascript"],
             "🔧 Backend": ["NodeJS", "Express"],
             "💾 Databases": ["MySQL"],
             "🧵 Miscellaneous": ["SCRUM", "Postman", "GIT", "Dialogflow", "Heroku", "Youtrack", "Jira",],
         }
-        self.tech_communities = ["FrontendCafé", "HackademyMX", "freeCodeCamp (FCC)"]
-        self.tech_contribution = ["Python mentor", "Docker mentor"]
+        self.tech_communities = ["HackademyMX"]
+        self.tech_contribution = ["Backend mentor"]
 
     def spend_free_time(self):
         self.courses_in_progress = ["Solidity, Blockchain, and Smart Contract. FCC"]
@@ -34,7 +30,7 @@ class Developer:
         self.lost_hobbies = ["🎮 Jugar videojuegos"]
 
     def __str__(self) -> str:
-        return f"Actualmente aprendiendo {self.blockchain_stack.get("📌 Ongoing")[0]}"
+        return f"Actualmente aprendiendo React and Blockchain 📌}"
 
 
 me = Developer()
