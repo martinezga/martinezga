@@ -13,7 +13,7 @@ class Developer:
             "🔧 Backend": ["Java", "Spring Boot", "Python", "Django Rest Framework"],
             "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
             "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugging"],
-            "🚀 Training": ["RESTful APIs", "Web services", "Microservices", "DevOps"]
+            "🚀 Training": ["RESTful APIs", "Web development", "Web services", "Microservices", "DevOps"]
         }
         self.other_knowledge = {
             "🎨 Frontend": ["ReactJS", "HTML", "CSS", "Javascript"],
