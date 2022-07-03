@@ -12,13 +12,14 @@ class Developer:
         self.backend_stack = {
             "🔧 Backend": ["Java", "Spring Boot", "Python", "Django Rest Framework"],
             "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
-            "🧵 Miscellaneous": ["Linux", "PostgreSQL", "Docker", "docker-compose"]
+            "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugging"],
+            "🚀 Training": ["RESTful APIs", "Web services", "Microservices", "DevOps"]
         }
         self.other_knowledge = {
             "🎨 Frontend": ["ReactJS", "HTML", "CSS", "Javascript"],
             "🔧 Backend": ["NodeJS", "Express"],
             "💾 Databases": ["MySQL"],
-            "🧵 Miscellaneous": ["SCRUM", "Postman", "GIT", "Dialogflow", "Heroku", "Youtrack", "Jira",],
+            "🧵 Tools": ["SCRUM", "Postman", "GIT", "Dialogflow", "Heroku", "Youtrack", "Jira",],
         }
         self.tech_communities = ["HackademyMX"]
         self.tech_contribution = ["Backend mentor"]
@@ -30,7 +31,7 @@ class Developer:
         self.lost_hobbies = ["🎮 Jugar videojuegos"]
 
     def __str__(self) -> str:
-        return f"Actualmente aprendiendo React and Blockchain 📌}"
+        return f"Actualmente aprendiendo Blockchain 📌}"
 
 
 me = Developer()
