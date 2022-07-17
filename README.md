@@ -7,19 +7,19 @@
 class Developer:
     def __init__(self):
         self.name = "Gabriella Alexandra Martinez Viloria"
-        self.main_profession = "Backend Developer"
+        self.main_profession = "Software Engineer"
         self.base_profession = "Petroleum Engineer"
+        self.main_stack = "Backend"
         self.backend_stack = {
             "🔧 Backend": ["Java", "Spring Boot", "Python", "Django Rest Framework"],
-            "📦 Python packages": ["Requests", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup"],
-            "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugging"],
+            "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugging", "GIT", "Postman"],
             "🚀 Training": ["RESTful APIs", "Web development", "Web services", "Microservices", "DevOps"]
         }
         self.other_knowledge = {
             "🎨 Frontend": ["ReactJS", "HTML", "CSS", "Javascript"],
             "🔧 Backend": ["NodeJS", "Express"],
             "💾 Databases": ["MySQL"],
-            "🧵 Tools": ["SCRUM", "Postman", "GIT", "Dialogflow", "Heroku", "Youtrack", "Jira",],
+            "🧵 Tools": ["SCRUM", "Dialogflow", "Heroku", "Youtrack", "Jira", "AWS"],
         }
         self.tech_communities = ["HackademyMX"]
         self.tech_contribution = ["Backend mentor"]
