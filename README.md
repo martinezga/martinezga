@@ -4,38 +4,35 @@
 # -*- coding: utf-8 -*-
 
 
-class Developer:
+class BackendDeveloper:
     def __init__(self):
         self.name = "Gabriella Alexandra Martinez Viloria"
         self.main_profession = "Software Engineer"
-        self.base_profession = "Petroleum Engineer"
-        self.main_stack = "Backend"
+        self.education = "Petroleum Engineer. 2005 - 2012"
+        self.main_stack = "Back end"
         self.backend_stack = {
             "🔧 Backend": ["Java", "Spring Boot", "Python", "Django Rest Framework"],
             "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugging", "GIT", "Postman"],
-            "🚀 Training": ["RESTful APIs", "Web development", "Web services", "Microservices", "DevOps"]
+            "🚀 Training": ["RESTful APIs", "Web development", "Web services", "Microservices", "DevOps"],
+        }
+        self.devops_stack = {
+            "🧵 Tools": ["Github Actions", "Gitlab CI/CD", "NGINX", "Heroku"],
         }
         self.other_knowledge = {
             "🎨 Frontend": ["ReactJS", "HTML", "CSS", "Javascript"],
             "🔧 Backend": ["NodeJS", "Express"],
             "💾 Databases": ["MySQL"],
-            "🧵 Tools": ["SCRUM", "Dialogflow", "Heroku", "Youtrack", "Jira", "AWS"],
+            "🧵 Tools": ["SCRUM", "Dialogflow", "Youtrack", "Jira", "AWS", "Redis"],
         }
-        self.tech_communities = ["HackademyMX"]
+        self.tech_communities = ["HackademyMX", "Hack Women"]
         self.tech_contribution = ["Backend mentor"]
 
     def spend_free_time(self):
-        self.courses_in_progress = ["Solidity, Blockchain, and Smart Contract. FCC"]
+        self.courses_in_progress = ["Building projects"]
         self.next_course = "CS50's Introduction to Computer Science"
         self.hobbies = ["Leer libros de ciencia ficción", "cocinar panes y dulces"]
         self.lost_hobbies = ["🎮 Jugar videojuegos"]
 
-    def __str__(self) -> str:
-        return f"Actualmente aprendiendo Blockchain 📌}"
-
-
-me = Developer()
-print(me)
 ```
 
 ## 🐱‍💻 Social Networks
@@ -61,44 +58,6 @@ print(me)
 
 <a href="https://github.com/martinezga/martinezga">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinezga&show_icons=true&line_height=27&count_private=true&title_color=FF66C4&text_color=8a919a&icon_color=FF66C4&bg_color=22272e" alt="Gabriella's GitHub Stats" style="padding:10px"/></a>
-
-## ✨ Lo más relevante de mis repositorios ✨
-
-- ### Material de estudio - Ver [repositorio](https://github.com/martinezga/material-de-estudio)
-
-- ### Katas resueltos de Codewars.
-  
-  Participación en la iniciativa de FrontendCafé - Ver [repositorio](https://github.com/martinezga/py-study-group/tree/main/ejercicios/CodeWars/Gabriella-Martinez)
-
-- ### Challenge HackademyMX.
-  
-  Basic Rest API - Ver [web](https://martinezga.github.io/challenge-basic-rest-api/) / Ver [repositorio](https://github.com/martinezga/challenge-basic-rest-api)
-
-- ### freeCodeCamp - Curso "Scientific Computing with Python Projects". Ver [certificado](https://freecodecamp.org/certification/martinezga/scientific-computing-with-python-v7)
-
-  Tecnología: Python
-
-  - Arithmetic Formatter - Ver [REPLIT](https://repl.it/@martinezga/freecodecamp-arithmetic-formatter) / Ver [repositorio](https://github.com/martinezga/freecodecamp-arithmetic-formatter)
-  - Time Calculator - Ver [REPLIT](https://repl.it/@martinezga/freecodecamp-time-calculator) / Ver [repositorio](https://github.com/martinezga/freecodecamp-time-calculator)
-  - Budget App - Ver [REPLIT](https://repl.it/@martinezga/freecodecamp-budget-app) / Ver [repositorio](https://github.com/martinezga/freecodecamp-budget-app)
-  - Polygon Area Calculator - Ver [REPLIT](https://replit.com/@martinezga/freecodecamp-polygon-area-calculator) / Ver [repositorio](https://github.com/martinezga/freecodecamp-polygon-area-calculator)
-  - Probability Calculator - Ver [REPLIT](https://replit.com/@martinezga/freecodecamp-probability-calculator) / Ver [repositorio](https://github.com/martinezga/freecodecamp-probability-calculator)
-
-- ### Jetbrains Academy - Intermediate Python Track.
-
-    Tecnologías: Python, Beautiful Soup, Sqlite3
-  - Zookeeper - Ver [repositorio](https://github.com/martinezga/jetbrains-academy-zookeeper)
-  - Text Based Browser - Ver [repositorio](https://github.com/martinezga/jetbrains-academy-Text-Based-Browser)
-  - CRUD banking system - Ver [repositorio](https://github.com/martinezga/jetbrains-academy-simple-banking-system)
-  - Hangman - Ver [repositorio](https://github.com/martinezga/jetbrains-academy-hangman)
-  - Tic-Tac-Toe - Ver [repositorio](https://github.com/martinezga/jetbrains-academy-tictactoe)
-
-- ### Acámica / Globant - Desarrollo Web Full Stack.
-
-    Tecnologías: HTML5, CSS3, JavaScript, SQL, Node JS, Express, XAMPP y Postman
-  - Página web de Podcasts - Ver [web](https://martinezga.github.io/podcast/) / Ver [repositorio](https://github.com/martinezga/podcast)
-  - Página web de GIFs - Ver [web](https://martinezga.github.io/gifos-web/) / Ver [repositorio](https://github.com/martinezga/gifos-web)
-  - Restful API Delilah Restó - Ver [repositorio](https://github.com/martinezga/my-First-API)
 
 ---
 
