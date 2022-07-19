@@ -11,7 +11,7 @@ class BackendDeveloper:
         self.education = "Petroleum Engineer. 2005 - 2012"
         self.main_stack = "Back end"
         self.backend_stack = {
-            "🔧 Backend": ["Java", "Spring Boot", "Python", "Django Rest Framework"],
+            "🔧 Backend": ["Java", "Spring", "Python", "Django Rest Framework"],
             "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugging", "GIT", "Postman"],
             "🚀 Training": ["RESTful APIs", "Web development", "Web services", "Microservices", "DevOps"],
         }
