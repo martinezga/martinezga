@@ -12,7 +12,7 @@ class BackendDeveloper:
         self.main_stack = "Back end"
         self.backend_stack = {
             "🔧 Backend": ["Java", "Spring", "Python", "Django Rest Framework"],
-            "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugging", "GIT", "Postman"],
+            "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugger", "GIT", "Postman"],
             "🚀 Training": ["RESTful APIs", "Web development", "Web services", "Microservices", "DevOps"],
         }
         self.devops_stack = {
@@ -52,9 +52,6 @@ class BackendDeveloper:
 [<img src="https://img.shields.io/badge/%20🇦🇷️%20CafecitoApp%20(ARS)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on CafecitoApp" title="Buy me a coffee on CafecitoApp" style="padding:10px"/>](https://cafecito.app/martinezga)  
 
 ## 📈 GitHub Stats
-
-<a href="https://github.com/martinezga/martinezga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezga&langs_count=5&title_color=FF66C4&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gabriella's GitHub Stats" style="padding:10px"/></a>
 
 <a href="https://github.com/martinezga/martinezga">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinezga&show_icons=true&line_height=27&count_private=true&title_color=FF66C4&text_color=8a919a&icon_color=FF66C4&bg_color=22272e" alt="Gabriella's GitHub Stats" style="padding:10px"/></a>
