@@ -40,6 +40,11 @@ class SoftwareEngineer:
 
 ```
 
+## 🏆 My Rewards
+[NFT Bootcamp "Smart Contract Solidity" of WEB3DEV](https://opensea.io/assets/matic/0xa68580d4E41925C20aF20dBA9B4Db17A79842F19/275?force_update=true)
+
+<img src="https://openseauserdata.com/files/ee92aba1ecc1b6b3fd69bdf9fa8e6648.svg" width="200" title="Bootcamp Smart Contract Solidity">
+
 ## 🐱‍💻 Social Networks
 [<img src="https://img.shields.io/badge/Linkedin-follow-ff69b4?style=social&logo=linkedin" height="25em" align="center" alt="Follow Gabriella on LinkedIn" title="Follow Gabriella on LinkedIn" style="padding:10px"/>](https://www.linkedin.com/in/martinezga)                     
 
