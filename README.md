@@ -4,12 +4,17 @@
 # -*- coding: utf-8 -*-
 
 
-class BackendDeveloper:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Gabriella Alexandra Martinez Viloria"
         self.main_profession = "Software Engineer"
         self.education = "Petroleum Engineer. 2005 - 2012"
         self.main_stack = "Back end"
+        self.blockchain_stack = {
+            "🔧 Backend": ["Solidity"],
+            "🧵 Tools": ["Hardhat", " Ether.js", "Alchemy"],
+            "🚀 Training": ["Smart Contracts", "Ethereum"],
+        }
         self.backend_stack = {
             "🔧 Backend": ["Java", "Spring", "Python", "Django Rest Framework"],
             "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugger", "GIT", "Postman"],
@@ -24,7 +29,7 @@ class BackendDeveloper:
             "💾 Databases": ["MySQL"],
             "🧵 Tools": ["SCRUM", "Dialogflow", "Youtrack", "Jira", "AWS", "Redis"],
         }
-        self.tech_communities = ["HackademyMX", "Hack Women"]
+        self.tech_communities = ["HackademyMX", "Hack Women", "web3dev.com.br"]
         self.tech_contribution = ["Backend mentor"]
 
     def spend_free_time(self):
@@ -44,12 +49,12 @@ class BackendDeveloper:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinezga&label=Profile%20views&color=0e75b6&style=flat" alt="martinezga" /> </p>
 
-## ☕️ Buy me a coffee
-[<img src="https://img.shields.io/badge/%20🌎️%20Stripe%20(USD)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on Stripe" title="Buy me a coffee on Stripe" style="padding:10px"/>](https://buy.stripe.com/eVa9Dq6Ry9Wr7zqdQQ)  
+## ☕️ Send me a coffee
+[<img src="https://img.shields.io/badge/%20🌎️%20Stripe%20(USD)-send-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on Stripe" title="Buy me a coffee on Stripe" style="padding:10px"/>](https://buy.stripe.com/eVa9Dq6Ry9Wr7zqdQQ)  
 
-[<img src="https://img.shields.io/badge/%20🇧🇷️%20PIX%20(BRL)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee with PIX" title="Buy me a coffee with PIX" style="padding:10px"/>](https://iti.itau/transacoes?t=link&h=f73e4e38-9341-41c1-818a-1fe834dc721f)  
+[<img src="https://img.shields.io/badge/%20🇧🇷️%20PIX%20(BRL)-send-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee with PIX" title="Buy me a coffee with PIX" style="padding:10px"/>](https://iti.itau/transacoes?t=link&h=f73e4e38-9341-41c1-818a-1fe834dc721f)  
 
-[<img src="https://img.shields.io/badge/%20🇦🇷️%20CafecitoApp%20(ARS)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on CafecitoApp" title="Buy me a coffee on CafecitoApp" style="padding:10px"/>](https://cafecito.app/martinezga)  
+[<img src="https://img.shields.io/badge/%20🇦🇷️%20CafecitoApp%20(ARS)-send-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on CafecitoApp" title="Buy me a coffee on CafecitoApp" style="padding:10px"/>](https://cafecito.app/martinezga)  
 
 ## 📈 GitHub Stats
 
