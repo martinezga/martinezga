@@ -41,9 +41,10 @@ class SoftwareEngineer:
 ```
 
 ## 🏆 My Rewards
-[NFT Bootcamp "Smart Contract Solidity" of WEB3DEV](https://opensea.io/assets/matic/0xa68580d4E41925C20aF20dBA9B4Db17A79842F19/275?force_update=true)
 
-<img src="https://openseauserdata.com/files/ee92aba1ecc1b6b3fd69bdf9fa8e6648.svg" width="200" title="Bootcamp Smart Contract Solidity">
+[NFT Bootcamp "Smart Contract Solidity" of WEB3DEV](https://opensea.io/assets/matic/0xa68580d4E41925C20aF20dBA9B4Db17A79842F19/275?force_update=true) | [Early Access to Alchemy University NFT](https://mintkudos.xyz/profile/0xd282e6cbe226930c3271cea3ff08c28a829f44fd?tab=Received)
+:-: | :-:
+<img src="https://openseauserdata.com/files/ee92aba1ecc1b6b3fd69bdf9fa8e6648.svg" width="200" title="Bootcamp Smart Contract Solidity"> | [![alchemy NFT video](https://user-images.githubusercontent.com/52822208/202317144-81993b3a-4c28-4571-a3be-0d68da8cfdd6.png)](https://images.mintkudos.xyz/token/2698.mp4)
 
 ## 🐱‍💻 Social Networks
 [<img src="https://img.shields.io/badge/Linkedin-follow-ff69b4?style=social&logo=linkedin" height="25em" align="center" alt="Follow Gabriella on LinkedIn" title="Follow Gabriella on LinkedIn" style="padding:10px"/>](https://www.linkedin.com/in/martinezga)                     
