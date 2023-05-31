@@ -10,24 +10,25 @@ class SoftwareEngineer:
         self.main_profession = "Software Engineer"
         self.education = "Petroleum Engineer. 2005 - 2012"
         self.main_stack = "Back end"
-        self.blockchain_stack = {
-            "🔧 Backend": ["Solidity"],
-            "🧵 Tools": ["Hardhat", " Ether.js", "Alchemy"],
-            "🚀 Training": ["Smart Contracts", "Ethereum"],
-        }
+        
         self.backend_stack = {
-            "🔧 Backend": ["Java", "Spring", "Python", "Django Rest Framework"],
+            "🔧 Backend": ["GOlang", "Gin-gonic", "Python", "Django Rest Framework", "Java", "Spring"],
             "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugger", "GIT", "Postman"],
             "🚀 Training": ["RESTful APIs", "Web development", "Web services", "Microservices", "DevOps"],
         }
         self.devops_stack = {
             "🧵 Tools": ["Github Actions", "Gitlab CI/CD", "NGINX", "Heroku"],
         }
+        self.blockchain_stack = {
+            "🔧 Backend": ["Solidity"],
+            "🧵 Tools": ["Hardhat", " Ether.js", "Alchemy"],
+            "🚀 Training": ["Smart Contracts", "Ethereum"],
+        }
         self.other_knowledge = {
             "🎨 Frontend": ["ReactJS", "HTML", "CSS", "Javascript"],
-            "🔧 Backend": ["NodeJS", "Express"],
+            "🔧 Backend": ["Javascript", "NextJS"],
             "💾 Databases": ["MySQL"],
-            "🧵 Tools": ["SCRUM", "Dialogflow", "Youtrack", "Jira", "AWS", "Redis"],
+            "🧵 Tools": ["Swagger", "SCRUM", "Dialogflow", "Youtrack", "Jira", "AWS", "Redis"],
         }
         self.tech_communities = ["HackademyMX", "Hack Women", "web3dev.com.br"]
         self.tech_contribution = ["Backend mentor"]
